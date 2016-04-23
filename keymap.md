@@ -1,3 +1,15 @@
+## Quick LIst
+
+| key | spec |
+| ---- | ---- |
+| Alt + 1 | Fn |
+| Alt + 2 | Edit |
+| Alt + 3 | Move |
+| Alt + 4 | Debug |
+| Alt + 5 | Fold |
+
+## KeyMap
+
 | key | spec | key | spec | key | spec | key | spec |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | F1 | Terminal | Alt+F1 | Select In | Ctrl+F1 | Preview File in | Shift+F1 | Open |
